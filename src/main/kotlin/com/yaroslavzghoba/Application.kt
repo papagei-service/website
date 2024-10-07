@@ -1,6 +1,6 @@
-package com.example
+package com.yaroslavzghoba
 
-import com.example.plugins.*
+import com.yaroslavzghoba.plugins.*
 import io.ktor.server.application.*
 
 fun main(args: Array<String>) {

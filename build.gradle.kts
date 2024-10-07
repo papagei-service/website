@@ -4,8 +4,8 @@ plugins {
     alias(libs.plugins.ktor)
 }
 
-group = "com.example"
-version = "0.1.0"
+group = "com.yaroslavzghoba"
+version = "0.1.1"
 
 application {
     mainClass.set("io.ktor.server.netty.EngineMain")
